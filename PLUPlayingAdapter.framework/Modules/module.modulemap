@@ -1,0 +1,6 @@
+framework module PLUPlayingAdapter {
+  umbrella header "PLUPlayingAdapter.h"
+
+  export *
+  module * { export * }
+}
