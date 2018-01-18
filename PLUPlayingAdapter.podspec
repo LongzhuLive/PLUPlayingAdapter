@@ -137,12 +137,12 @@ Pod::Spec.new do |s|
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # s.dependency "JSONKit", "~> 1.4"
-    s.dependency "PLUFoundation", "~> 0.0.1"
+    s.dependency "PLUFoundation", "~> 0.0.2"
     s.dependency "PLUUIKit", "~> 0.0.1"
     s.dependency "PLUUIComponents", "~> 0.0.1"
-    s.dependency "PLUNetworking", "~> 0.0.1"
-    s.dependency "PLUDiagnose", "~> 0.0.2"
-    s.dependency "SNPlayerSDK", "~> 0.0.1"
-    s.dependency "PLUReporter", "~> 0.0.1"
+    s.dependency "PLUNetworking", "~> 0.0.2"
+    s.dependency "PLUDiagnose", "~> 0.0.7"
+    s.dependency "SNPlayerSDK", "~> 0.0.2"
+    s.dependency "PLUReporter", "~> 0.0.2"
 
 end
