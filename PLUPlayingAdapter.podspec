@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PLUPlayingAdapter"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "PLUPlayingAdapter"
 
   # This description is used to generate tags and improve search results.
