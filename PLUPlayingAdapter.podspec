@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PLUPlayingAdapter"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "PLUPlayingAdapter"
 
   # This description is used to generate tags and improve search results.
@@ -142,7 +142,7 @@ Pod::Spec.new do |s|
     s.dependency "PLUUIComponents", "~> 0.0.1"
     s.dependency "PLUNetworking", "~> 0.0.2"
     s.dependency "PLUDiagnose", "~> 0.0.7"
-    s.dependency "SNPlayerSDK", "~> 0.0.2"
+    s.dependency "SNPlayerSDK", "~> 0.0.3"
     s.dependency "PLUReporter", "~> 0.0.2"
 
 end
